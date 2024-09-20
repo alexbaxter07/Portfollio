@@ -15,7 +15,19 @@
 
     <body>
 
-        
+        <div id="container">
+
+            <h1>Alexia Baxter</h1>
+
+            <div id ="about_me">
+
+                <h3>About Me</h3>
+
+                <p></p>
+
+            </div>
+
+        </div>
 
     </body>
 
