@@ -4,3 +4,22 @@ body{
     font-family: Arial, sans-serif;
 }
 
+#content{
+    flex-flow:row;
+}
+
+#bi{
+    flex-flow:column;
+}
+
+#gid{
+    flex-flow:column;
+}
+
+#intro{
+    flex-flow:column;
+}
+
+#shadow{
+    flex-flow:column;
+}
