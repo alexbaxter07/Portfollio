@@ -4,22 +4,27 @@ body{
     font-family: Arial, sans-serif;
 }
 
-#content{
-    flex-flow:row;
-}
-
-#bi{
-    flex-flow:column;
-}
-
-#gid{
+#container{
+    display: flex;
     flex-flow:column;
 }
 
 #intro{
-    flex-flow:column;
+    display: flex;
+    flex-flow:row;
+}
+
+#bi{
+    display: flex;
+    flex-flow:row;
+}
+
+#gid{
+    display: flex;
+    flex-flow:row;
 }
 
 #shadow{
-    flex-flow:column;
+    display: flex;
+    flex-flow:row;
 }
