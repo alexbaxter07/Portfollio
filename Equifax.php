@@ -9,7 +9,7 @@
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
         <title>Equifax</title>
-        <link href="styles.css">
+        <link rel="stylesheet" href="styles.css">
 
     </head>
 
